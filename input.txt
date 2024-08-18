@@ -1,0 +1,17 @@
+ORG 20A
+BSA 103 //comment1
+INP
+ADD K
+ADD y
+ISZ x //comment2
+STA z
+ISZ 515 I
+ISZ 103
+AND 155 I //comment3
+BUN FAE I
+HLT //comment4
+x 053 //comment5
+y FE9
+z AA0
+FAFA //comment6
+FAFA
